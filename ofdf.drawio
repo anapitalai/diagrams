@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T07:26:35.327Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="hee61oab-bVH68kRVm_L" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T07:27:28.374Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="WCjBVRd0mOGTzgtJZPo3" version="21.1.8" type="github">
   <diagram name="Page-1" id="_3-YXE6fwbLjVkBHm375">
     <mxGraphModel dx="1602" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -194,6 +194,9 @@
         </mxCell>
         <mxCell id="MZdYEif0DY1K4uZLoSQp-31" value="Web Services" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="885" y="632.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MZdYEif0DY1K4uZLoSQp-32" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="889" y="670" width="52" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
