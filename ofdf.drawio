@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T05:35:49.947Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Vgun4nTAqZS4XjyoS3mw" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T05:38:05.204Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="6S05vSdFwCXTaqM0xSwN" version="21.1.8" type="github">
   <diagram name="Page-1" id="_3-YXE6fwbLjVkBHm375">
     <mxGraphModel dx="1362" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -41,8 +41,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="520" y="310" />
-              <mxPoint x="610" y="310" />
-              <mxPoint x="610" y="465" />
+              <mxPoint x="640" y="310" />
+              <mxPoint x="640" y="465" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -79,13 +79,13 @@
         <mxCell id="a0BfutifW1SVSichDjld-33" value="Frontend" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="40" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a0BfutifW1SVSichDjld-34" value="API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="a0BfutifW1SVSichDjld-34" value="RESTFUL &lt;br&gt;API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="105" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a0BfutifW1SVSichDjld-35" value="API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="a0BfutifW1SVSichDjld-35" value="RESTFUL&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="275" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a0BfutifW1SVSichDjld-36" value="API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="a0BfutifW1SVSichDjld-36" value="RESTFUL&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="435" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a0BfutifW1SVSichDjld-37" value="DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -122,7 +122,7 @@
           <mxGeometry x="760" y="435" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a0BfutifW1SVSichDjld-48" value="mobile app" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="760" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a0BfutifW1SVSichDjld-53" value="webapp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="790" y="150" width="60" height="30" as="geometry" />
