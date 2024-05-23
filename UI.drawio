@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T04:21:19.500Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" version="24.4.6" etag="gwAksd5jUIV8qidVB6IK" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-23T04:42:57.743Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="tpcVegPAQgGm_7tt5C21" version="24.4.6" type="github">
   <diagram name="Page-1" id="iYfEcGZC3Mart0tt_Pew">
-    <mxGraphModel>
+    <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qvN_gcN_sKEZaXYUXhw1-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="100" y="270" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qvN_gcN_sKEZaXYUXhw1-11" value="Data Warehouse" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="100" y="296" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qvN_gcN_sKEZaXYUXhw1-13" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" vertex="1" parent="1">
+          <mxGeometry x="630" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qvN_gcN_sKEZaXYUXhw1-14" value="User Interface" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="640" y="265" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qvN_gcN_sKEZaXYUXhw1-15" value="REST APIs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qvN_gcN_sKEZaXYUXhw1-16" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#0B4D6A;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="288.37" as="sourcePoint" />
+            <mxPoint x="360" y="291.63" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qvN_gcN_sKEZaXYUXhw1-25" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#0B4D6A;entryX=0.025;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="438" y="288.99" as="sourcePoint" />
+            <mxPoint x="630" y="291.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qvN_gcN_sKEZaXYUXhw1-27" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" vertex="1" parent="1">
+          <mxGeometry x="360" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qvN_gcN_sKEZaXYUXhw1-28" value="&lt;div&gt;/delete&lt;/div&gt;&lt;div&gt;/POST&lt;/div&gt;&lt;div&gt;/GET&lt;/div&gt;&lt;div&gt;//PATCH&lt;/div&gt;&lt;div&gt;/PUT&lt;br&gt;/GET&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="370" y="265" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
