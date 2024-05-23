@@ -1,9 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T01:14:47.372Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" version="24.4.6" etag="OUQi276-lX5mPkx9MATi" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-23T04:06:54.795Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="Dq5PSlO8BOpKffP_dca9" version="24.4.6" type="github">
   <diagram name="Page-1" id="HMe04MvFaul-6fBr2Olu">
-    <mxGraphModel>
+    <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DXzOdZyt8kbyVgt-Idxx-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="130" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DXzOdZyt8kbyVgt-Idxx-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="330" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DXzOdZyt8kbyVgt-Idxx-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DXzOdZyt8kbyVgt-Idxx-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="261" as="sourcePoint" />
+            <mxPoint x="330" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DXzOdZyt8kbyVgt-Idxx-10" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="670" y="140" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DXzOdZyt8kbyVgt-Idxx-11" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="670" y="310" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DXzOdZyt8kbyVgt-Idxx-12" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.025;exitY=0.413;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DXzOdZyt8kbyVgt-Idxx-3" target="DXzOdZyt8kbyVgt-Idxx-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="250" as="sourcePoint" />
+            <mxPoint x="580" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DXzOdZyt8kbyVgt-Idxx-13" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="DXzOdZyt8kbyVgt-Idxx-3" target="DXzOdZyt8kbyVgt-Idxx-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="280" as="sourcePoint" />
+            <mxPoint x="580" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DXzOdZyt8kbyVgt-Idxx-14" value="Data sources" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="325" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DXzOdZyt8kbyVgt-Idxx-16" value="Apache Airflow as ELT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DXzOdZyt8kbyVgt-Idxx-17" value="Data Warehouse" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DXzOdZyt8kbyVgt-Idxx-18" value="DataLake" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
