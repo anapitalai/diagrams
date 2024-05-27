@@ -1,9 +1,305 @@
-<mxfile host="app.diagrams.net" modified="2024-05-26T22:01:02.481Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="24.0.7" etag="uOC62at1iIt3jHkw4r2R" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T01:25:30.167Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="P77WkahBXxx9qV_TcaIK" version="24.4.8" type="github">
   <diagram name="Page-1" id="AgIGCqX0SpDL4rUEXYQh">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-133" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=#9933FF;" vertex="1" parent="1">
+          <mxGeometry x="660" y="530" width="400" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-143" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=#9933FF;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="70" width="430" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-141" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=#9933FF;" vertex="1" parent="1">
+          <mxGeometry x="660" y="340" width="390" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-140" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=#9933FF;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="70" width="310" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-132" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=#9933FF;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="70" width="120" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-122" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=#FFFF00;" vertex="1" parent="1">
+          <mxGeometry x="270" y="70" width="780" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-123" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=#FFFF00;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="450" width="640" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-130" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=#FFFF00;" vertex="1" parent="1">
+          <mxGeometry x="660" y="70" width="390" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-128" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=#FFFF00;" vertex="1" parent="1">
+          <mxGeometry x="280" y="340" width="380" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-126" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=#FFFF00;rotation=0;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="330" y="70" width="720" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-94" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;strokeColor=#660066;shadow=1;fillColor=#B3FFE5;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="530" width="420" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UnSjFTT5_NCKE2m4-x9x-4" target="UnSjFTT5_NCKE2m4-x9x-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UnSjFTT5_NCKE2m4-x9x-4" target="UnSjFTT5_NCKE2m4-x9x-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UnSjFTT5_NCKE2m4-x9x-4" target="UnSjFTT5_NCKE2m4-x9x-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Georgia&quot;&gt;NSDI CONCEPTUAL FRAMEWORK&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" vertex="1" parent="1">
+          <mxGeometry x="612.5" y="10" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UnSjFTT5_NCKE2m4-x9x-6" target="UnSjFTT5_NCKE2m4-x9x-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-6" value="&lt;font face=&quot;Georgia&quot;&gt;Vision and Strategy&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;labelBackgroundColor=default;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UnSjFTT5_NCKE2m4-x9x-8" target="UnSjFTT5_NCKE2m4-x9x-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-8" value="Institutional Framework" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=default;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="785" y="80" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UnSjFTT5_NCKE2m4-x9x-10" target="UnSjFTT5_NCKE2m4-x9x-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-10" value="Data Management" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;labelBackgroundColor=default;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-11" value="Vision Statement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UnSjFTT5_NCKE2m4-x9x-13" target="UnSjFTT5_NCKE2m4-x9x-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="250" />
+              <mxPoint x="460" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-13" value="Strategic Planning" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-14" value="Coordinating Body" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="732.5" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UnSjFTT5_NCKE2m4-x9x-16" target="UnSjFTT5_NCKE2m4-x9x-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-16" value="Legal and Regulatory Framework" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="852.5" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UnSjFTT5_NCKE2m4-x9x-18" target="UnSjFTT5_NCKE2m4-x9x-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-18" value="Data Standards" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-19" value="Data Inventory" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1095" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-20" value="Data Collection and Maintenance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1335" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UnSjFTT5_NCKE2m4-x9x-22" target="UnSjFTT5_NCKE2m4-x9x-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-22" value="&lt;font face=&quot;Georgia&quot;&gt;Technology Infrastructure&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;labelBackgroundColor=default;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="400" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.44;entryY=-0.08;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UnSjFTT5_NCKE2m4-x9x-24" target="UnSjFTT5_NCKE2m4-x9x-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="853" y="350" />
+              <mxPoint x="853" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-24" value="Data Access and Services" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=default;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="785" y="270" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UnSjFTT5_NCKE2m4-x9x-26" target="UnSjFTT5_NCKE2m4-x9x-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1275" y="360" />
+              <mxPoint x="1275" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-26" value="Capacity Building" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;labelBackgroundColor=default;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-27" value="Geospatial Data Infrastructure" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UnSjFTT5_NCKE2m4-x9x-29" target="UnSjFTT5_NCKE2m4-x9x-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-29" value="Interoperability" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-30" value="Data Security" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-31" value="Value Added Services" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UnSjFTT5_NCKE2m4-x9x-33" target="UnSjFTT5_NCKE2m4-x9x-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="853" y="440" />
+              <mxPoint x="853" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-33" value="Authentication &amp;amp; Authorization" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-34" value="NSDI Portal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UnSjFTT5_NCKE2m4-x9x-36" target="UnSjFTT5_NCKE2m4-x9x-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1275" y="430" />
+              <mxPoint x="1275" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-36" value="Awareness" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-37" value="Training" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UnSjFTT5_NCKE2m4-x9x-39" target="UnSjFTT5_NCKE2m4-x9x-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-39" value="&lt;font face=&quot;Georgia&quot;&gt;Data Sharing and Collaboration&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;labelBackgroundColor=default;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="400" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UnSjFTT5_NCKE2m4-x9x-41" target="UnSjFTT5_NCKE2m4-x9x-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-41" value="Funding and Sustainability" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=default;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="785" y="450" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UnSjFTT5_NCKE2m4-x9x-43" target="UnSjFTT5_NCKE2m4-x9x-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1275" y="530" />
+              <mxPoint x="1275" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-43" value="Monitoring and Evaluation" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;labelBackgroundColor=default;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-44" value="Data Sharing Agreements" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UnSjFTT5_NCKE2m4-x9x-46" target="UnSjFTT5_NCKE2m4-x9x-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-46" value="Collaboration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-47" value="Performance Metrics" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UnSjFTT5_NCKE2m4-x9x-49" target="UnSjFTT5_NCKE2m4-x9x-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1275" y="610" />
+              <mxPoint x="1275" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-49" value="Quality Assurance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-50" value="Funding Sources" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="732.5" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UnSjFTT5_NCKE2m4-x9x-52" target="UnSjFTT5_NCKE2m4-x9x-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="853" y="620" />
+              <mxPoint x="852" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-52" value="Revenue Generation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="852.5" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UnSjFTT5_NCKE2m4-x9x-54" target="UnSjFTT5_NCKE2m4-x9x-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-54" value="&lt;font face=&quot;Georgia&quot;&gt;Public Engagement&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;labelBackgroundColor=default;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="400" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UnSjFTT5_NCKE2m4-x9x-56" target="UnSjFTT5_NCKE2m4-x9x-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-56" value="International Collaboration" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontStyle=1;labelBackgroundColor=default;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="785" y="630" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UnSjFTT5_NCKE2m4-x9x-58" target="UnSjFTT5_NCKE2m4-x9x-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-58" value="Review and Improvement" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;labelBackgroundColor=default;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-59" value="Community Outreach" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-60" value="Communication" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-61" value="Global Intergration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="792.5" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-62" value="Continuous Improvement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-63" value="" style="endArrow=doubleBlock;startArrow=doubleBlock;html=1;rounded=0;endFill=1;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="110" as="sourcePoint" />
+            <mxPoint x="780" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-64" value="" style="endArrow=doubleBlock;startArrow=doubleBlock;html=1;rounded=0;endFill=1;startFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UnSjFTT5_NCKE2m4-x9x-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="535" y="299.57" as="sourcePoint" />
+            <mxPoint x="785" y="299.57" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-65" value="" style="endArrow=doubleBlock;startArrow=doubleBlock;html=1;rounded=0;endFill=1;startFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="930" y="300" as="sourcePoint" />
+            <mxPoint x="1210" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UnSjFTT5_NCKE2m4-x9x-85" value="" style="endArrow=none;html=1;rounded=0;shadow=1;fixDash=0;backgroundOutline=0;strokeColor=none;fillColor=#dae8fc;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="520" as="sourcePoint" />
+            <mxPoint x="1040" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1040" y="790" />
+              <mxPoint x="670" y="790" />
+              <mxPoint x="670" y="270" />
+              <mxPoint x="1000" y="270" />
+              <mxPoint x="1000" y="70" />
+              <mxPoint x="1480" y="70" />
+              <mxPoint x="1480" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
